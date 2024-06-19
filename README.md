@@ -1,0 +1,1 @@
+This project focuses on analyzing and modeling insurance data using dbt. It includes various SQL scripts and dbt models organized into a structured layer approach (gold and silver layers) to facilitate data transformation and analysis.
